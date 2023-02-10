@@ -1,4 +1,14 @@
 # Kanap #
+Intégrer les fonctionnalités d'un site de commerce en ligne:
+ - Ajouter au panier
+ - Choix des produit (importés avec une API)
+ - Changer les quantités
+ - Formulaire Passer la commande
+ 
+
+Fait avec: 
+ - Javascript
+
 
 This is the front end and back end server for Project 5 of the Web Developer path.
 
